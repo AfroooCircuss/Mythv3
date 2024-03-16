@@ -11,6 +11,6 @@ myths jar is dumped sonoyuncu 7 september jars fixed version for connect sonoyun
 code is very shitty we know please dont blame us
 
 for project;
-  use [jar](https://workupload.com/file/BEuvJB67DPp)this jar as library and then out with it
+  use [this](https://workupload.com/file/BEuvJB67DPp) jar as library and then out with it
 
 # by chudvvick & akita

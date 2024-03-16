@@ -3,4 +3,11 @@ dont ask any questions
 sorry for annoying code
 
 Discord: https://discord.gg/XxNqkhhK65
+
+how it works
+
+it connects the error and input stream of bootstrap to myth minecraft thats a completely different process for get session id (yes thats how sonoyuncu bootstrap and launcher communicates)
+myths jar is dumped sonoyuncu 7 september jars fixed version for connect sonoyuncu what it does is just canceling C03PacketPlayers in login lobby and disables some funny checks xddd
+
+code is very shitty we know please dont blame us
 # by chudvvick & akita

@@ -9,4 +9,8 @@ it connects the error and input stream of bootstrap to myth minecraft thats a co
 myths jar is dumped sonoyuncu 7 september jars fixed version for connect sonoyuncu what it does is just canceling C03PacketPlayers in login lobby and disables some funny checks xddd
 
 code is very shitty we know please dont blame us
+
+for project;
+  use [jar](https://workupload.com/file/BEuvJB67DPp)this jar as library and then out with it
+
 # by chudvvick & akita
